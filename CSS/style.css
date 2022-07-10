@@ -1,0 +1,63 @@
+
+header {
+    background: #3295a8;
+    height: 35px;
+    padding: 15px;
+    font-size: 28px;
+    text-align: center;
+ }
+
+
+th h1 {
+    
+    color: chocolate;
+    height: 90px;
+    font-size: 47px;
+    padding: 14px;
+}
+
+body {
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.content {
+    background: #eef0e9;
+    min-height: 400px;
+    color: black;
+    padding: 10px;
+    text-align: justify;
+}
+
+.content1 {
+    background: #edf50a;
+    min-height: 80px;
+}
+
+.div {
+    box-sizing: border-box;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #ffc526;
+    padding: 24px 118px;
+    color: black;
+}
+
+.btn:hover {
+    background-color: lightblue;
+}
+
+.test li {
+    float: left;
+    display: block;
+    padding: 29px;
+} 
+
+.footer {
+    background: #aec8f2; 
+    height: 55px;
+    padding: 20px;
+}
