@@ -53,7 +53,7 @@ body {
 .test li {
     float: left;
     display: block;
-    padding: 29px;
+    padding: 1px;
 } 
 
 .footer {
