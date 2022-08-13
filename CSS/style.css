@@ -41,8 +41,8 @@ body {
 
 .btn {
     text-decoration: none;
-    background-color: hsl(62, 69%, 45%)
-    padding: 24px 118px; 
+    background-color: hsl(62, 69%, 45%);
+    padding: 24px; 118px; 
     color: black;
 }
 
