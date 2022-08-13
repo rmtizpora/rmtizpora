@@ -31,7 +31,7 @@ body {
 }
 
 .content1 {
-    background: #edf50a;
+    background: #e3ea14;
     min-height: 100px;
 }
 
@@ -41,7 +41,7 @@ body {
 
 .btn {
     text-decoration: none;
-    background-color: hsl(44, 92%, 60%);
+    background-color: #e3ea19
     padding: 24px 118px;
     color: black;
 }
